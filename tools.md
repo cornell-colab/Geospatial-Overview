@@ -1,3 +1,4 @@
+
 | Tool | Type | Ownership| Project Host | Cost |Example |
 -------------------------------------------------------------------------------
 | [StoryMapJS](https://storymap.knightlab.com/) | Platform | Knight Foundation | Knight Lab | Free | 

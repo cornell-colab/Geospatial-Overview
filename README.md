@@ -1,7 +1,7 @@
 # Geospatial Overview
 What tools are available for digital geospatial humanities projects? What is each one for? 
 
-<h1>Geospatial Tools</h1>
+<h2>Geospatial Tools</h2>
 
 | Tool | Type | Ownership | Project Host | Cost | Example(s) | Good for |
 |----|----|----|----|----|----|----|
